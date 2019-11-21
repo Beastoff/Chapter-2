@@ -1,0 +1,7 @@
+C:\Users\gg179936\Desktop\C# Projects\Chapter 2\Chapter2Debugging\Chapter2Debugging\bin\Debug\Chapter2Debugging.exe.config
+C:\Users\gg179936\Desktop\C# Projects\Chapter 2\Chapter2Debugging\Chapter2Debugging\bin\Debug\Chapter2Debugging.exe
+C:\Users\gg179936\Desktop\C# Projects\Chapter 2\Chapter2Debugging\Chapter2Debugging\bin\Debug\Chapter2Debugging.pdb
+C:\Users\gg179936\Desktop\C# Projects\Chapter 2\Chapter2Debugging\Chapter2Debugging\obj\Debug\Chapter2Debugging.csprojAssemblyReference.cache
+C:\Users\gg179936\Desktop\C# Projects\Chapter 2\Chapter2Debugging\Chapter2Debugging\obj\Debug\Chapter2Debugging.csproj.CoreCompileInputs.cache
+C:\Users\gg179936\Desktop\C# Projects\Chapter 2\Chapter2Debugging\Chapter2Debugging\obj\Debug\Chapter2Debugging.exe
+C:\Users\gg179936\Desktop\C# Projects\Chapter 2\Chapter2Debugging\Chapter2Debugging\obj\Debug\Chapter2Debugging.pdb

@@ -1,0 +1,1 @@
+C:\Users\gg179936\Desktop\C# Projects\Chapter 2\Chapter2TwoDebugging\Chapter2TwoDebugging\obj\Debug\Chapter2TwoDebugging.csproj.CoreCompileInputs.cache
